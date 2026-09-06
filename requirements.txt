@@ -1,0 +1,4 @@
+composio>=0.21.1
+agno>=3.0.6
+streamlit
+openai
