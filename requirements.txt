@@ -1,4 +1,8 @@
-composio>=0.21.1
-agno>=3.0.6
 streamlit
-openai
+crewai
+anthropic
+composio>=0.21.1
+pandas
+openpyxl
+plotly
+python-dotenv
